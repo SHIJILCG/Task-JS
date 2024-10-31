@@ -1,0 +1,35 @@
+{
+    "orders": [
+      {
+        "customerId": 1,
+        "items": [
+          { "name": "shoes" },
+          { "name": "bang" },
+          { "name": "car" },
+          { "name": "bike" }
+        ],
+        "totalPrice": 20000000
+      },
+      {
+        "customerId": 2,
+        "items": [
+          { "name": "house" },
+          { "name": "bang" },
+          { "name": "car" },
+          { "name": "bike" }
+        ],
+        "totalPrice": 20000
+      },
+      {
+        "customerId": 1,
+        "items": [
+          { "name": "bat" },
+          { "name": "bang" },
+          { "name": "car" },
+          { "name": "bike" }
+        ],
+        "totalPrice": 700000
+      }
+    ]
+  }
+  
